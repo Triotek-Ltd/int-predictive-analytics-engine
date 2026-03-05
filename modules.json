@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "int1_1",
+    "module_label": "INT.1.1 - Data Aggregation & Preprocessing",
+    "module_title": "Data Aggregation & Preprocessing",
+    "module_slug": "data_aggregation_and_preprocessing",
+    "app_code": "int1",
+    "app_label": "INT 1 - Predictive Analytics Engine",
+    "bundle_code": "int",
+    "source_md_path": "doc/rnd/plugs/int/int1.md"
+  },
+  {
+    "module_code": "int1_3",
+    "module_label": "INT.1.3 - Forecast Reporting",
+    "module_title": "Forecast Reporting",
+    "module_slug": "forecast_reporting",
+    "app_code": "int1",
+    "app_label": "INT 1 - Predictive Analytics Engine",
+    "bundle_code": "int",
+    "source_md_path": "doc/rnd/plugs/int/int1.md"
+  },
+  {
+    "module_code": "int1_2",
+    "module_label": "INT.1.2 - Predictive Model Execution",
+    "module_title": "Predictive Model Execution",
+    "module_slug": "predictive_model_execution",
+    "app_code": "int1",
+    "app_label": "INT 1 - Predictive Analytics Engine",
+    "bundle_code": "int",
+    "source_md_path": "doc/rnd/plugs/int/int1.md"
+  }
+]
